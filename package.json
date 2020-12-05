@@ -10,7 +10,7 @@
     "example",
     "heroku"
   ],
-  
+
   "author": "Casey Poier",
   "license": "ISC",
   "dependencies": {
